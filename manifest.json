@@ -1,0 +1,18 @@
+{
+  "id": "eyes-wide-shut-addon",
+  "version": "1.0.0",
+  "name": "Eyes Wide Shut (2025) - Short Film",
+  "description": "A gripping short crime film where a young woman’s murder by her unstable boyfriend begins a chilling loop of obsession and tragedy.",
+  "logo": "https://i.imgur.com/f2o8SA0.jpeg",
+  "background": "https://i.imgur.com/f2o8SA0.jpeg",
+  "resources": ["stream", "meta", "catalog"],
+  "types": ["movie"],
+  "idPrefixes": ["eyeswideshut2025"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "eyeswideshut2025",
+      "name": "Eyes Wide Shut (Short Film)"
+    }
+  ]
+}
